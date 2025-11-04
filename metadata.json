@@ -1,0 +1,5 @@
+{
+  "name": "Interactive RAG Knowledge Base",
+  "description": "An interactive web application demonstrating Retrieval-Augmented Generation (RAG). Add FAQs and upload PDF files to build a knowledge base, then ask questions to get context-aware answers powered by Gemini.",
+  "requestFramePermissions": []
+}
